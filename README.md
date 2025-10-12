@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm CoderCoookie! 
+You can call me Cookie! \
+[CoderCoookie](https://codercoookie.github.io)
 
 <!--
 **CoderCoookie/CoderCoookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
