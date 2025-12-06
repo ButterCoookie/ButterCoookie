@@ -1,6 +1,13 @@
 # Hi, I'm CoderCoookie! 
 You can call me Cookie! \
-[CoderCoookie](https://codercoookie.github.io)
+My personal website is: [CoderCoookie](https://codercoookie.github.io)
+You can also find me in Gitee: [Coookie](https://gitee.com/codercoookie/)
+You can find my OJ account on [LuoguMe/Coookie](https://www.luogu.me/user/1008766)
+
+Some interesting facts about me: 
+ - 👨🏻‍💻 I'm a `C++ algorithm programme coder` and can build `HTML`.
+ - 📖 The algorithm I'm learning is `Graph`.
+ - ❓ I'm looking for help with `DP`.
 
 <!--
 **CoderCoookie/CoderCoookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
