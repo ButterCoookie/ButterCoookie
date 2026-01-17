@@ -1,6 +1,7 @@
-# Hi, I'm CoderCoookie! 
+# Hi, I'm ButterCoookie! 
 You can call me Cookie! \
-My personal website is: [CoderCoookie](https://codercoookie.github.io)
+My personal website is: [ButterCoookie](https://buttercoookie.github.io)\
+My project organization(Cookie Online Judge)'s main page: [CookieOJ](https://CookieOJ.github.io)\
 You can also find me in Gitee: [Coookie](https://gitee.com/codercoookie/)
 You can find my OJ account on [LuoguMe/Coookie](https://www.luogu.me/user/1008766)
 
